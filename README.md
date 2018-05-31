@@ -1,4 +1,5 @@
 # Splitify Music PLayer
+(Made for Microsoft code.fun.do 2018 at IIT Jodhpur)
 
 ## Purpose
 This application lets you play separate songs on individual channel of the earpiece connected. So that two persons can listen to music of their choice simultaneously on same device.
